@@ -6,9 +6,9 @@ Welcome to the Cloud_Assignments repository! This repository houses a collection
 
 1.Hands-on Assignments:
 
-AWS Amplify.pdf: Hands-on guide for using AWS Amplify service.
+- AWS Amplify.pdf: Hands-on guide for using AWS Amplify service.
 
-AWS Architectural Diagram for Cloud Migration.pdf: Practical implementation of architectural diagram for cloud migration on AWS.
+- AWS Architectural Diagram for Cloud Migration.pdf: Practical implementation of architectural diagram for cloud migration on AWS.
 
 AWS ElasticBeanStalk with CodePipeline.pdf: Step-by-step instructions for implementing AWS ElasticBeanStalk with CodePipeline.
 
